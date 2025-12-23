@@ -1,20 +1,19 @@
-### Olá! Eu sou Alex Augusto ✋
+[ReadMe.md](https://github.com/user-attachments/files/24318256/ReadMe.md)
+# 💫 About Me:
+💻 Analise Desenvolvimento de Software<br><br>📚 Sou "eterno aprendiz", apaixonado por tecnologia. 🧠<br><br>⚡ Por trás do código: Marido, músico, gamer e apaixonado por esporte .💍🎵🏆
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/codebyaugusto)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alex.augsuto.836186) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/allex.augustoo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/codebyaugusto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allexaugusto00@gmail.com) 
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alex.augsuto.836186)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codebyaugusto&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codebyaugusto&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyaugusto&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allex.augustoo/)
+---
+[![](https://visitcount.itsvg.in/api?id=codebyaugusto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Augusto GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=codebyaugusto&show_icons=true&theme=radical)
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display:inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
